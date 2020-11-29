@@ -5,8 +5,8 @@ Maintainer: Stefan Tomanek <stefan.tomanek+debian@wertarbyte.de>
 Build-Depends: debhelper-compat (= 12), dh-exec, linux-libc-dev
 Standards-Version: 3.9.8
 Homepage: https://github.com/wertarbyte/ipv6pref
-Vcs-Git: https://github.com/wertarbyte/ipv6pref.git
-Vcs-Browser: https://github.com/wertarbyte/ipv6pref
+Vcs-Git: https://github.com/wertarbyte/ipv6pref.git -b debian
+Vcs-Browser: https://github.com/wertarbyte/ipv6pref/tree/debian
 
 Package: ipv6pref
 Architecture: linux-any
